@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#090d16" />
+  <circle cx="256" cy="256" r="190" fill="#0f172a" stroke="#0284c7" stroke-width="8" stroke-dasharray="12 12" opacity="0.6"/>
+  <path d="M256 72 L384 138 V276 C384 362 256 428 256 428 C256 428 128 362 128 276 V138 Z" fill="#0369a1" />
+  <path d="M256 90 L368 147 V272 C368 348 256 406 256 406 C256 406 144 348 144 272 V147 Z" fill="#082f49" />
+  <!-- Beacon pulse / link chain -->
+  <path d="M214 224 L256 182 L298 224" stroke="#f59e0b" stroke-width="22" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="256" cy="268" r="28" fill="#f59e0b"/>
+  <path d="M192 312 L256 368 L320 312" stroke="#38bdf8" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

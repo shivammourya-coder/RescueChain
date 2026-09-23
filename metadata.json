@@ -1,0 +1,6 @@
+{
+  "name": "RescueChain",
+  "description": "AI-powered disaster response and resource coordination platform connecting emergency signals to verified relief.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
